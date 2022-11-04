@@ -1,0 +1,156 @@
+/* :root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# */
+
+html {
+  /* background: #47ebb4; */
+}
+
+body {
+  /* background: #d1faec; */
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+main {
+  border: none;
+  /* width: 100%; */
+  min-width: 90vw;
+}
+
+ul {
+  /* border: 1px solid white; */
+  /* padding: 2rem; */
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+/* button {
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  background: #47ebb4;
+  box-shadow: 16px 16px 32px #3cc899, -16px -16px 32px #52ffcf;
+  color: white;
+}
+
+button:active {
+  box-shadow: inset 16px 16px 32px #3cc899, inset -16px -16px 32px #52ffcf;
+} */
+
+/*
+.form_field {
+  border: none;
+  border-radius: 8px;
+  background: #a3f5da;
+  box-shadow: inset 20px 20px 60px #8bd0b9, inset -20px -20px 60px #bbfffb;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.form_field button {
+  margin-left: 1rem;
+}
+
+.List {
+  border: none;
+  border-radius: 8px;
+  background: #a3f5da;
+  box-shadow: inset 20px 20px 60px #8bd0b9, inset -20px -20px 60px #bbfffb;
+}
+
+.ListItem {
+  margin: 1rem 0;
+  border: none;
+  border-radius: 8px;
+  background: #47ebb4;
+  box-shadow: inset 20px 20px 60px #3cc899, inset -20px -20px 60px #52ffcf;
+}
+
+.todo button {
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  background: #47ebb4;
+  box-shadow: 8px 8px 32px #3cc899, -8px -8px 32px #52ffcf;
+  color: white;
+} */
+
+main {
+  padding: 2rem;
+}
